@@ -14,9 +14,9 @@ git-workshop
 	Create a file called lastname_firstname.txt (substiting your first and last name where appropriate).
 	In that file, leave me a nice note. 
 	Example notes:
-		- Dang Nishant, you're so cool!
-		- Hey Nishant, how did you become so cool?
-		- That Nish guy is pretty gangsta.
+		- Dang Nishant, you're so cool!  
+		- Hey Nishant, how did you become so cool?  
+		- That Nish guy is pretty gangsta.  
 
 4. Stage changes
 
