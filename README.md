@@ -6,14 +6,14 @@ git-workshop
 
 2. Create a branch
 
-	git branch BRANCH_NAME
+	git branch BRANCH_NAME  
 	git checkout BRANCH_NAME
 
 3. Make an edit
 	
 	Create a file called lastname_firstname.txt (substiting your first and last name where appropriate).
 	In that file, leave me a nice note. 
-	Example notes:
+	Example notes:  
 		- Dang Nishant, you're so cool!  
 		- Hey Nishant, how did you become so cool?  
 		- That Nish guy is pretty gangsta.  
@@ -28,9 +28,9 @@ git-workshop
 
 6. Push to remote
 
-	git push origin BRANCH_NAME
-			--OR--
-	git push
+	git push origin BRANCH_NAME  
+			--OR--  
+	git push  
 
 7. Pull request
 
