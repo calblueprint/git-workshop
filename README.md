@@ -38,3 +38,17 @@ git-workshop
 	2. click "open pull request"
 
 8. Profit. $$$
+
+
+Resources
+============
+
+Games:
+http://pcottle.github.io/learnGitBranching/
+https://try.github.io/
+
+Not Games:
+1. http://git-scm.com/book/en/Getting-Started-Git-Basics
+2. https://www.atlassian.com/git/tutorials/setting-up-a-repository (This one is not horrible, but it's dense)
+3. Your PL!
+4. Google
