@@ -16,7 +16,8 @@ git-workshop
 	Example notes:  
 		- Dang Nishant, you're so cool!  
 		- Hey Nishant, how did you become so cool?  
-		- That Nish guy is pretty gangsta.  
+		- That Nish guy is pretty gangsta.
+		- @vdawg is pretty cool too.  
 
 4. Stage changes
 
@@ -24,7 +25,7 @@ git-workshop
 
 5. Commit staged changes
 
-	git commit -m "message_of_your_choice"
+	git commit -m "Varun is super cool. I'm going to join Worldreader"
 
 6. Push to remote
 
