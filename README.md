@@ -16,7 +16,7 @@ git-workshop
 	Example notes:  
 		- Dang Nishant, you're so cool!  
 		- Hey Nishant, how did you become so cool?  
-		- That Nish guy is pretty gangsta.
+		- That Nish guy is pretty gangsta.  
 		- @vdawg is pretty cool too.  
 
 4. Stage changes
