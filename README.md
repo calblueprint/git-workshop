@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 TYPE @neezus ++ INTO HIPCHAT
+=======
+TYPE @vdawg ++ INTO HIPCHAT RIGHT NOW
+>>>>>>> 7cc3ebe91ce29851c95e771001a656b3831f0d1e
 ============
 1. Clone the repository
 
