@@ -1,4 +1,4 @@
-TYPE @vdawg ++ INTO HIPCHAT
+TYPE @vdawg ++ INTO HIPCHAT RIGHT NOW
 ============
 1. Clone the repository
 
